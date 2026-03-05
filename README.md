@@ -1,3 +1,23 @@
-# RaniaMofeed
-I’m a Software Engineer with more than two years of experience in developing both Web and desktop applications. I worked with different technology stacks such as C#, MySQL and Java. I always looks for improve what I’m responsible for. Currently I’m learning Python. In my free time I like play Piano and Violin. 
+# Rania Mofeed
+### Data Analyst | Software Engineering Background
 
+Data analyst specializing in transforming raw data into actionable insights through data cleaning, exploratory data analysis (EDA), and interactive dashboards. My goal is to help businesses make better decisions using data storytelling and visualization.
+
+I have hands-on experience working with **Python**, **SQL**, **Excel**, and **Power BI** across real-world datasets and business scenarios.
+
+---
+
+## Skills
+
+### 📈 Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Data Wrangling
+- Data Visualization
+- KPI & Business Performance Analysis
+- Reporting & Insight Generation
+
+###  Technical Skills
+- **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- **SQL** — Joins, Aggregations, Window Functions
+- **Excel** — Pivot Tables, Data Analysis, Functions
+- **Power BI** — Dashboards & Data Modeling
