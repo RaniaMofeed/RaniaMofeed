@@ -6,7 +6,7 @@ I'm a Data Analyst with a software engineering background, working with Python, 
 
 I like combining programming with analytics — automating data processes, exploring datasets, and building dashboards that tell clear stories. In my free time, I enjoy creating small side projects to learn new tools and analytical techniques.
 
-- 💻 Main tools: Python, SQL, pandas, Power BI, PostgreSQL
+- 💻 Main tools: Python, SQL, pandas, Power BI, PostgreSQL, Excel
 - 📊 Interested in: Data Analytics, Finance Analytics, Data Visualization
 - 🌱 Currently learning: Advanced analytics & financial data analysis
 - ⚡ Background: Software Engineering (Python, Django, C# .NET)
