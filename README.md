@@ -2,130 +2,126 @@
 
 # Rania Mofeed
 ### Data Analyst · Turning Complex Data into Clear Business Decisions
+#### 📍 Dubai, UAE (Open to On-site, Hybrid & Remote Roles)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raniamofeed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.mofeed.gad@gmail.com)
+
+[🎯 About Me](#-who-i-am) • [🛠️ Tech Stack](#️-tech-stack) • [📂 Featured Projects](#-featured-projects) • [🌱 Current Focus](#-currently)
+
 </div>
 
 ---
 
 ## 👩‍💻 Who I Am
 
-I'm a **Freelance Data Analyst** based in Dubai, UAE — with a foundation in Software Engineering that gives me an edge most analysts don't have: I don't just read data, I understand how it's built, structured, and moved across systems.
+I am a **Data Analyst & Analytics Consultant** based in Dubai, with a solid foundation in **Software Engineering**. This background gives me a distinct technical edge: I don't just query databases; I understand data architecture, system integrations, and how data flows from end to end.
 
-I bridge the gap between **raw data** and **real business decisions** — translating numbers into narratives that stakeholders can act on.
+I specialize in bridging the gap between **raw, complex data systems** and **strategic business growth**—translating technical metrics into compelling visual narratives that stakeholders and executives can act upon instantly.
 
-> *"Data is only as valuable as the decisions it enables."*
-
----
-
-## 🎯 What I Bring to the Table
-
-| Capability | What It Means in Practice |
-|------------|--------------------------|
-| 📊 **Analytical Thinking** | I ask the right business questions before writing a single query |
-| 🧹 **Data Wrangling** | I clean messy, real-world datasets — not just textbook examples |
-| 📈 **Visual Storytelling** | I build dashboards that communicate insights at a glance |
-| 🤖 **Predictive Modeling** | I use ML to answer *"what will happen next?"* — not just *"what happened?"* |
-| 🗄️ **SQL Proficiency** | CTEs, Window Functions, and complex joins — production-level queries |
+> 💡 *"Data is a company's most underutilized asset. My mission is to turn it into a competitive advantage."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Value Proposition & Capabilities
 
-**Core Analytics**
+| Capability | Business Impact |
+|------------|-----------------|
+| 📊 **Commercial & Analytical Thinking** | Translating ambiguous business problems into structured, data-driven hypotheses before writing code. |
+| 🧹 **Advanced Data Wrangling** | Engineering clean, reliable datasets from chaotic, multi-source real-world environments. |
+| 📈 **Executive-Level Storytelling** | Developing intuitive, low-latency BI dashboards tailored to both operational teams and C-level executives. |
+| 🤖 **Predictive & Diagnostic Analytics** | Utilizing Statistical Modeling and Machine Learning to uncover *why* trends occur and *what* will happen next. |
+| 🗄️ **Production-Grade SQL** | Writing optimized CTEs, complex window functions, and heavy query joins for high-volume databases. |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 📊 Core Analytics & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-**Python Libraries**
-
+### 🐍 Data Science & Programming (Python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Data Skills**
-
-![EDA](https://img.shields.io/badge/EDA-Exploratory_Analysis-9B59B6?style=flat-square)
-![DAX](https://img.shields.io/badge/DAX-Power_BI_Formulas-F2C811?style=flat-square)
-![ML](https://img.shields.io/badge/Machine_Learning-Decision_Tree-27AE60?style=flat-square)
+### 🧠 Domain Knowledge & Methodologies
+`Exploratory Data Analysis (EDA)` `Data Modeling (Star Schema)` `DAX (Advanced)` `Machine Learning (Classification/Regression)` `A/B Testing` `Stakeholder Management`
 
 ---
 
 ## 📂 Featured Projects
 
-> Each project was built to answer a real business question — not just to practice syntax.
+> *All projects are designed to solve critical business bottlenecks, focus on ROI, and deliver actionable strategy.*
+
+### 🔄 [Telco Customer Churn Diagnostics & Prediction](https://github.com/RaniaMofeed/telco-churn-analysis)
+**Business Objective:** *Identify the root causes of customer attrition and build an early-warning system to retain high-value accounts.*
+
+- **Data & Insights:** Audited and processed **7,032 customer profiles** using Python. Identified that **month-to-month contracts** suffered a critical 42% churn rate compared to a stable 3% in long-term contracts.
+- **Modeling:** Engineered and deployed a **Logistic Regression model** to predict at-risk profiles, balancing precision and recall for marketing optimization.
+- **Business Action:** Delivered **4 data-backed retention plays** focusing on high-risk subscription tiers, directly targeting a reduction in customer acquisition costs (CAC).
+
+`Python` `Pandas` `Seaborn` `Scikit-learn` `Predictive Analytics` `Churn Mitigation`
 
 ---
 
-### 🔄 [Telco Customer Churn Analysis](https://github.com/RaniaMofeed/telco-churn-analysis)
-**The business question:** *Why are customers leaving, and who's most at risk?*
+### 🛒 [E-Commerce Financial Performance & Sales Dashboard](https://github.com/RaniaMofeed/ecommerce-powerbi-dashboard)
+**Business Objective:** *Uncover revenue leakages and optimize profit margins across multi-category product lines.*
 
-- Analyzed **7,032 telecom customers** using Python, Pandas, and Seaborn
-- Discovered that **month-to-month contracts** drive 42% churn vs. 3% for 2-year contracts
-- Built a **Logistic Regression model** to predict at-risk customers
-- Delivered **4 retention recommendations** backed by data
+- **Data & Engineering:** Modeled **$2.3M in transactional sales data** within Power BI utilizing a clean Star Schema. Developed **7 advanced DAX measures** (including YoY Growth % and Dynamic Profit Margins).
+- **Key Discovery:** Uncovered that while the "Tables" sub-category generated high sales volume, aggressive discounting strategies led to a net **$18K operational loss**.
+- **Business Action:** Recommended a revised, tiered discount structure to protect margins and flagged low-performing product lines for inventory reallocation.
 
-`Python` `Pandas` `Seaborn` `Scikit-learn` `EDA` `Machine Learning`
-
----
-
-### 🛒 [E-Commerce Sales Dashboard](https://github.com/RaniaMofeed/ecommerce-powerbi-dashboard)
-**The business question:** *Where is the business growing — and where is it losing money?*
-
-- Built a **3-page interactive Power BI dashboard** analyzing **$2.3M in sales**
-- Created **7 DAX measures** including YoY Growth % and Profit Margin
-- Identified that the **Tables sub-category generates $18K in losses** despite strong sales volume
-- Revealed that **higher discounts consistently reduce profit margin** across all categories
-
-`Power BI` `DAX` `Data Modeling` `Business Intelligence` `KPI Reporting`
+`Power BI` `DAX` `Data Modeling` `Star Schema` `KPI Dashboards` `Margin Optimization`
 
 ---
 
-### 🗄️ [Superstore SQL Business Analysis](https://github.com/RaniaMofeed/superstore-sql-analysis)
-**The business question:** *What patterns emerge when we interrogate 10,000 orders with SQL?*
+### 🗄️ [Superstore Enterprise SQL Business Intelligence](https://github.com/RaniaMofeed/superstore-sql-analysis)
+**Business Objective:** *Interrogate 10,000+ historical orders to conduct deep-dive customer segmentation and growth velocity mapping.*
 
-- Wrote **9 business-focused queries** ranging from basic aggregations to advanced techniques
-- Used **CTEs and Window Functions** (RANK, LAG, PARTITION BY) for complex analysis
-- Performed **Month-over-Month growth analysis** and **customer segmentation** (VIP / Regular / Low Value)
-- Quantified the impact of discounts on profitability across all product categories
+- **Technical Execution:** Wrote production-level, optimized PostgreSQL queries utilizing **CTEs, Advanced Window Functions (`RANK`, `LAG`, `PARTITION BY`)**, and complex joins.
+- **Analysis:** Conducted a comprehensive **Month-over-Month (MoM) growth audit** and engineered an automated RFM-style **customer segmentation matrix** (VIP, Regular, At-Risk).
+- **Business Action:** Quantified the exact financial impact of seasonal discounts, providing the marketing team with a data-driven framework for future campaign budgeting.
 
-`PostgreSQL` `CTEs` `Window Functions` `LAG` `RANK` `Business Analysis`
+`PostgreSQL` `Advanced SQL` `CTEs` `Window Functions` `Customer Segmentation`
 
 ---
 
-### 🌳 [HR Employee Attrition Prediction](https://github.com/RaniaMofeed/hr-attrition-analysis)
-**The business question:** *Which employees are most likely to leave — and why?*
+### 🌳 [Data-Driven HR Employee Attrition Forecasting](https://github.com/RaniaMofeed/hr-attrition-analysis)
+**Business Objective:** *Proactively identify internal talent flight risks and uncover the primary drivers of workplace dissatisfaction.*
 
-- Built a **Decision Tree classifier** achieving **84% accuracy** on 1,470 employees
-- Identified top 3 attrition drivers: **Total Working Years**, **OverTime**, and **Monthly Income**
-- Chose Decision Tree specifically for its **explainability** — HR decisions affect real people
-- Delivered actionable recommendations to reduce attrition risk proactively
+- **Modeling & Logic:** Built and optimized a **Decision Tree Classifier** achieving **84% predictive accuracy** across 1,470 employee records. Selected this architecture specifically for model explainability to support HR compliance.
+- **Key Discovery:** Isolated the top 3 statistical drivers of attrition: *Total Working Years, Mandatory Overtime, and Compensation Benchmarks*.
+- **Business Action:** Handed HR leadership a proactive retention framework, shifting internal policy from reactive exit interviewing to data-driven talent management.
 
-`Python` `Scikit-learn` `Decision Tree` `Feature Importance` `HR Analytics`
+`Python` `Scikit-learn` `Decision Trees` `Feature Importance` `HR Analytics` `Workforce Planning`
 
 ---
 
 ## 🌱 Currently
 
-- 🔍 Actively seeking **Data Analyst** roles in Dubai (on-site, remote, or hybrid)
-- 📚 Deepening expertise in **advanced SQL** and **storytelling with data**
-- 💼 Open to **freelance projects** — data analysis, dashboards, and reporting
+- 🔍 **Actively Seeking Opportunities:** Open to **Data Analyst / BI Analyst** roles in Dubai (On-site, Hybrid, or Remote).
+- 📚 **Continuous Upskilling:** Deepening expertise in cloud data warehousing (BigQuery/Snowflake) and advanced dashboard storytelling.
+- 💼 **Consulting & Freelance:** Available for end-to-end data pipelines, custom BI dashboards, and advanced SQL development.
 
 ---
 
 ## 💬 Let's Connect
 
-If you're looking for a Data Analyst who combines **technical depth** with **business thinking** — I'd love to connect.
+If you need an analyst who translates raw code into revenue and operational efficiency, let’s talk.
 
-📧 **rania.mofeed.gad@gmail.com**
-🔗 **[linkedin.com/in/raniamofeed](https://www.linkedin.com/in/raniamofeed)**
+* 📧 **Email:** [rania.mofeed.gad@gmail.com](mailto:rania.mofeed.gad@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/raniamofeed](https://www.linkedin.com/in/raniamofeed)
 
 ---
 
 <div align="center">
 
-*⭐ If you find my work valuable, consider starring a repo — it means a lot!*
+*⭐️ If you find value in my repositories, a star would be highly appreciated!*
 
 </div>
