@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raniamofeed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.mofeed.gad@gmail.com)
 
-[🎯 About Me](#-who-i-am) • [🛠️ Tech Stack](#️-tech-stack) • [📂 Featured Projects](#-featured-projects) • [🌱 Current Focus](#-currently)
-
+[🎯 About Me](#-who-i-am) • [🛠️ Tech Stack](#%EF%B8%8F-tech-stack--skills) • [📂 Featured Projects](#-featured-projects) • [🌱 Current Focus](#-currently)
 </div>
 
 ---
