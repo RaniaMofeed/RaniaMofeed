@@ -2,9 +2,6 @@
 
 # Rania Mofeed
 ### Data Analyst · Turning Complex Data into Clear Business Decisions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raniamofeed)
-
 </div>
 
 ---
@@ -107,18 +104,6 @@ I bridge the gap between **raw data** and **real business decisions** — transl
 - Delivered actionable recommendations to reduce attrition risk proactively
 
 `Python` `Scikit-learn` `Decision Tree` `Feature Importance` `HR Analytics`
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![Rania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniaMofeed&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaMofeed&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
