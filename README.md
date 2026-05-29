@@ -4,7 +4,7 @@
 ### Data Analyst · Turning Complex Data into Clear Business Decisions
 #### Dubai, UAE (Open to On-site, Hybrid & Remote Roles)
 
-[About Me](#who-i-am) • [Tech Stack](#tech-stack--skills) • [Featured Projects](#featured-projects) • [Current Focus](#currently)
+[About Me](#who-i-am) • [Tech Stack](#tech-stack--skills) • [Featured Projects](#featured-projects) • [Current Focus](#currently)• [Let's Connect](#Let's Connect)
 </div>
 
 ---
