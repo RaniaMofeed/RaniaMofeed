@@ -5,9 +5,8 @@
 #### Dubai, UAE (Open to On-site, Hybrid & Remote Roles)
 
 [About Me](#who-i-am) • [Tech Stack](#tech-stack--skills) • [Featured Projects](#featured-projects) • [Current Focus](#currently) • [Let's Connect](#lets-connect)
-
 ---
-
+</div>
 ## Who I Am
 
 I am a **Data Analyst & Analytics Consultant** based in Dubai, with a solid foundation in **Software Engineering**. This background gives me a distinct technical edge: I don't just query databases; I understand data architecture, system integrations, and how data flows from end to end.
