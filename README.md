@@ -46,11 +46,11 @@ Exploratory Data Analysis (EDA), Data Modeling (Star Schema), DAX (Advanced), Ma
 
 ## Featured Projects
 
-### [Telco Customer Churn Diagnostics & Prediction](https://github.com/RaniaMofeed/telco-churn-analysis)
+### [Telco Customer Churn Diagnostics & Prediction](https://github.com/RaniaMofeed/TelcoCustomerChurn)
 * **Description:** Identified the root causes of customer attrition using Python to audit 7,032 profiles, deployed a Logistic Regression model to predict at-risk subscriptions, and delivered 4 data-backed retention plays.
 * **Tools:** Python, Pandas, Seaborn, Scikit-learn, Predictive Analytics, Churn Mitigation
 
-### [E-Commerce Financial Performance & Sales Dashboard](https://github.com/RaniaMofeed/ecommerce-powerbi-dashboard)
+### [E-Commerce Financial Performance & Sales Dashboard](https://github.com/RaniaMofeed/Superstore-Sales-Dataset)
 * **Description:** Modeled $2.3M in transactional sales data using a Star Schema in Power BI and advanced DAX to uncover key revenue leakages, flagging an $18K operational loss in heavily discounted sub-categories.
 * **Tools:** Power BI, DAX, Data Modeling, Star Schema, KPI Dashboards, Margin Optimization
 
@@ -58,7 +58,7 @@ Exploratory Data Analysis (EDA), Data Modeling (Star Schema), DAX (Advanced), Ma
 * **Description:** Wrote production-level, optimized PostgreSQL queries utilizing CTEs and advanced window functions to interrogate over 10,000 historical orders for customer RFM segmentation and MoM growth auditing.
 * **Tools:** PostgreSQL, Advanced SQL, CTEs, Window Functions, Customer Segmentation
 
-### [Data-Driven HR Employee Attrition Forecasting](https://github.com/RaniaMofeed/hr-attrition-analysis)
+### [Data-Driven HR Employee Attrition Forecasting](https://github.com/RaniaMofeed/IBM-HR-Analytics-Employee-Attrition-Performance)
 * **Description:** Built and optimized a Decision Tree Classifier with 84% accuracy across 1,470 employee records to isolate the top drivers of attrition and provide HR leadership with a proactive talent retention framework.
 * **Tools:** Python, Scikit-learn, Decision Trees, Feature Importance, HR Analytics, Workforce Planning
 
